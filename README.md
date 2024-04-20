@@ -1,4 +1,6 @@
 # Happy-Math-Journey
+<img src="https://github.com/JayFreemandev/William-Kimchi-Oneil/assets/72185011/96f3f326-f800-479c-848e-26651580b43e" width="80%" height="50%">  
+
 이 리포지토리는 개인적으로 퀀트 도메인을 깊게 이해하기 위한 수학들을 다루고 있습니다. 복잡한 금융 시장을 분석하고 예측하는 데 필요한 수학적, 통계적 방법론을 사용하는 개발 및 금융 공학에 중점을 두고 있습니다. 
 중학교 수학 과정부터 대학교 수학 과정까지 제가 공부한 커리큘럼을 따라 정리하며, 하루에 2시간 이상을 투자하여 빠르게 개념을 숙지하는 것을 목표로 합니다. 이 과정은 모든 어려운 문제를 풀기보다는 누군가에게 설명할 수 
 있을 정도로 금융 수학을 기초부터 탄탄하게 이해하는 것을 목적으로 하고 있습니다.
@@ -9,6 +11,13 @@
 - **18.03 미분 방정식 (Differential Equations)**
 - **18.05 확률 및 통계 입문 (Introduction to Probability and Statistics)** 또는 **18.440 확률과 랜덤 변수 (Probability and Random Variables)**
 - **18.06 선형 대수학 (Linear Algebra)**
+
+</br>
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://github.com/JayFreemandev/William-Kimchi-Oneil/assets/72185011/a109a95d-ce84-4ba4-9a96-c76f838a9827" width="45%">
+    <img src="https://github.com/JayFreemandev/William-Kimchi-Oneil/assets/72185011/db1f8ac9-9cd0-44e7-96e8-632b59c30799" width="45%">
+</div>
 
 중학교, 고등학교 수학 과정은 EBS와 수학의 바이블로 공부를 진행하고있고 이후의 General math 과정들은 Khan academy의 내용들로 진행합니다. 금융 수학 과정은 MIT OCW의 과정으로 공부합니다.
 강의의 목적은 대학교 학부생과 대학원생들에게 금융 산업에서 사용되는 수학적 개념과 기술을 소개하는 것입니다. 강의는 선형대수, 확률, 통계, 확률 과정, 수치 방법론 등에 관한 수학 강의로 구성됩니다. 
@@ -68,7 +77,7 @@
 25. 상대방 신용 위험 소개, 결론 (Introduction to Counterparty Credit Risk, Conclusions)
 <hr>
 
-## 학습 도서/영상 목록
+## Papers
 1. EBS 중학 수학
     - 수1
     - 수2
@@ -83,4 +92,7 @@
 5. 개발자를 위한 실전 선형대수학, 마이크 코헨
 6. 금융수학개론, 이재성
 7. [MIT OCW Lecture Notes](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/)
+
+## Video Series
+
 <hr>
