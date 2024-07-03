@@ -19,7 +19,7 @@
     <img src="https://github.com/JayFreemandev/William-Kimchi-Oneil/assets/72185011/db1f8ac9-9cd0-44e7-96e8-632b59c30799" width="45%">
 </div>
 
-중학교, 고등학교 수학 과정은 EBS와 수학의 바이블로 공부를 진행하고있고 이후의 General math 과정들은 Khan academy의 내용들로 진행합니다. 금융 수학 과정은 MIT OCW의 과정으로 공부합니다.
+중학교, 고등학교 수학 과정은 EBS와 수학의 바이블로 공부를 진행하고있고 이후의 General math 과정들은 책과 Khan academy의 내용들로 진행합니다. 금융 수학 과정은 MIT OCW의 과정으로 공부합니다.
 강의의 목적은 대학교 학부생과 대학원생들에게 금융 산업에서 사용되는 수학적 개념과 기술을 소개하는 것입니다. 강의는 선형대수, 확률, 통계, 확률 과정, 수치 방법론 등에 관한 수학 강의로 구성됩니다. 
 수학 강의는 금융 산업에서의 해당 응용을 설명하는 강의와 혼합되어 진행됩니다. MIT의 수학자들이 수학 부분을 가르치고, 금융은 현장 전문가들이 금융 응용에 대한 강의를 제공합니다. 
 
@@ -87,12 +87,14 @@
     - 수1 
     - 수2
 3. 미분적분학, 조지 토마스
-3. 프로그래머를 위한 확률과 통계, 히라오카 카즈유키
+3. 선형대수학, 길버트 스트랭
 4. 파이썬을 이용한 수치해석, 류권주
-5. 개발자를 위한 실전 선형대수학, 마이크 코헨
+5. 수리통계학, 김우철
 6. 금융수학개론, 이재성
 7. [MIT OCW Lecture Notes](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/)
 
 ## Video Series
+1. Khan academy
+2. 3brown(선형대수학)
 
 <hr>
