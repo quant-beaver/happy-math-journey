@@ -89,7 +89,7 @@
 3. 미분적분학, 조지 토마스
 3. 선형대수학, 길버트 스트랭
 4. 파이썬을 이용한 수치해석, 류권주
-5. 수리통계학, 김우철
+5. 수리통계학, 호그
 6. 금융수학개론, 이재성
 7. [MIT OCW Lecture Notes](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/)
 
