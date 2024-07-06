@@ -93,7 +93,7 @@
 
 ## Video Series
 1. Khan academy
-2. [3brown 1blue]((https://www.youtube.com/@3Blue1BrownKR/playlists))
-   - 고등 과정끝나고 대학 수학 들어갈때 미적, 선대, 확률 영상 참고
+2. [3brown 1blue](https://www.youtube.com/@3Blue1BrownKR/playlists)
+    - 고등 과정끝나고 대학 수학 들어갈때 미적, 선대, 확률 영상 참고
 
 <hr>
