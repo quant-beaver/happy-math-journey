@@ -87,12 +87,13 @@
     - 수1 
     - 수2
 3. 미분적분학, 조지 토마스
-3. 선형대수학, 데이비드 레이
+3. 선형대수학, 데이비드 레이
 4. 수리통계학, 호그
 5. [MIT OCW Lecture Notes](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/)
 
 ## Video Series
 1. Khan academy
-2. 3brown(선형대수학)
+2. [3brown 1blue]((https://www.youtube.com/@3Blue1BrownKR/playlists))
+   - 고등 과정끝나고 대학 수학 들어갈때 미적, 선대, 확률 영상 참고
 
 <hr>
