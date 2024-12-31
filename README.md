@@ -35,8 +35,8 @@
 1. 대수학 (Algebra)(2024.Jan ~ 2024.Aug)
     - 8개월 580시간 소모
 3. 미적분 (Calculus)(2025.Jan~)
-4. 확률과 통계 (Probability and Statistics)
-5. 선형대수학 (Linear Algebra)
+4. 수리통계 (Probability and Statistics)
+5. 선형대수 (Linear Algebra)
 
 ### [Mathematics With Applications In Finance (MIT)](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video_galleries/video-lectures/)
 1. 선형대수학 (Linear Algebra)
