@@ -1,16 +1,8 @@
 # Happy-Math-Journey
-<img src="https://github.com/JayFreemandev/William-Kimchi-Oneil/assets/72185011/96f3f326-f800-479c-848e-26651580b43e" width="80%" height="50%">  
 
 이 리포지토리는 개인적으로 퀀트 도메인을 깊게 이해하기 위한 수학들을 다루고 있습니다. 복잡한 금융 시장을 분석하고 예측하는 데 필요한 수학적, 통계적 방법론을 사용하는 개발 및 금융 공학에 중점을 두고 있습니다. 
-중학교 수학 과정부터 대학교 수학 과정까지 제가 공부한 커리큘럼을 따라 정리하며, 하루에 2시간 이상을 투자하여 빠르게 개념을 숙지하는 것을 목표로 합니다. 이 과정은 모든 어려운 문제를 풀기보다는 누군가에게 설명할 수 
-있을 정도로 금융 수학을 기초부터 탄탄하게 이해하는 것을 목적으로 하고 있습니다.
-
-**MIT 금융수학 과정의 prerequisites**
-- **18.01 단일 변수 미적분학 (Single Variable Calculus)**
-- **18.02 다변수 미적분학 (Multivariable Calculus)**
-- **18.03 미분 방정식 (Differential Equations)**
-- **18.05 확률 및 통계 입문 (Introduction to Probability and Statistics)** 또는 **18.440 확률과 랜덤 변수 (Probability and Random Variables)**
-- **18.06 선형 대수학 (Linear Algebra)**
+중학교 수학 과정부터 대학교 수학 과정까지 목표한 커리큘럼을 따라 정리하며 하루에 2시간 이상을 투자하여 숙지하는 것을 목표로 합니다. 이 과정은 모든 어려운 문제를 풀기보다는 누군가에게 설명할 수 
+있을 정도로 기초부터 탄탄하게 이해하는 것을 목적으로 하고 있습니다.
 
 </br>
 
@@ -19,8 +11,12 @@
     <img src="https://github.com/JayFreemandev/William-Kimchi-Oneil/assets/72185011/db1f8ac9-9cd0-44e7-96e8-632b59c30799" width="45%">
 </div>
 
-중학교, 고등학교 General math 과정은 EBS와 수학의 바이블을 사용. 이후의 과정들은 MIT OCW로 진행합니다.
-강의는 학부/대학원생들에게 금융 산업에서 사용되는 수학적 개념과 기술이 주요 목차이고. 선형대수, 확률과 통계, 확률 과정, 수치 방법론 등에 관한 수학 강의로 구성됩니다. 
+**MIT 금융수학 과정의 prerequisites**
+- **18.01 단일 변수 미적분학 (Single Variable Calculus)**
+- **18.02 다변수 미적분학 (Multivariable Calculus)**
+- **18.03 미분 방정식 (Differential Equations)**
+- **18.05 확률 및 통계 입문 (Introduction to Probability and Statistics)** 또는 **18.440 확률과 랜덤 변수 (Probability and Random Variables)**
+- **18.06 선형 대수학 (Linear Algebra)**
 
 **MIT OCW 해당 과정 목표**
 1. 가격-수익률 관계를 도출하고 볼록성을 이해할 수 있어야 합니다.
@@ -34,20 +30,13 @@
 9. 이토의 미적분으로 금융 수학에서의 응용을 이해할 수 있어야 합니다.
 10. 기르사노프의 정리와 측도 변경을 이해할 수 있어야 합니다.
 
-## 커리큘럼
+## Curri
 ### General Math
-1. 대수학 (Algebra)(~2024.Aug)
-- **주요 개념**: 방정식, 부등식, 함수  
-- 중1~고등수학 과정까지 8개월 580시간 소모
-
-2. 미적분 (Calculus)
-- **주요 개념**: 미분, 적분, 다변수 함수
-
-3. 확률과 통계 (Probability and Statistics)
-- **주요 개념**: 확률 이론, 확률 분포, 통계적 추정
-
-4. 선형대수학 (Linear Algebra)
-- **주요 개념**: 벡터, 행렬, 선형 변환
+1. 대수학 (Algebra)(2024.Jan ~ 2024.Aug)
+    - 8개월 580시간 소모
+3. 미적분 (Calculus)(2025.Jan~)
+4. 확률과 통계 (Probability and Statistics)
+5. 선형대수학 (Linear Algebra)
 
 ### [Mathematics With Applications In Finance (MIT)](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video_galleries/video-lectures/)
 1. 선형대수학 (Linear Algebra)
@@ -94,6 +83,6 @@
 ## Video Series
 1. Khan academy
 2. [3brown 1blue](https://www.youtube.com/@3Blue1BrownKR/playlists)
-    - 고등 과정끝나고 대학 수학 들어갈때 미적, 선대, 확률 영상 참고
+    - 미적, 선대, 확률 영상 참고
 
 <hr>
