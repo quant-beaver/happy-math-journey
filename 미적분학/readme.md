@@ -60,5 +60,8 @@
 14.7 Extreme Values and Saddle Points
 14.8 Lagrange Multipliers
 
+---
+계산 반복이 들어가는 적분 응용이나 극좌표, 행렬(선형대수에서 다룸)은 패스한다.
+
 reference
 Thomas' Calculus Early Transcendentals (2009)
