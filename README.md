@@ -1,12 +1,13 @@
 # Happy-Math-Journey
-
-이 리포지토리는 퀀트 도메인 이해를 위한 수학 학습 내용을 정리한 개인용 저장소이다. 중학교 수학부터 대학 수학까지의 범위를 커리큘럼에 따라 학습하며 수학적·통계적 방법론을 익히는 것을 목적으로 한다. 시작시 2시간 이상 학습에 투자하며 문제 풀이보다 개념의 정확한 이해와 설명 가능 여부를 기준으로 학습 진행 여부를 판단한다. 기초 개념 위주의 반복 학습을 통해 응용 가능한 수학적 사고력을 확보하는 것을 목표로 한다.
+중등 수학부터 대학 금융수학까지의 체계적 학습 기록,
+개념 이해를 통한 수학적 사고력 확보 및 도메인 응용
 </br>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <img src="https://github.com/JayFreemandev/William-Kimchi-Oneil/assets/72185011/a109a95d-ce84-4ba4-9a96-c76f838a9827" width="45%">
     <img src="https://github.com/JayFreemandev/William-Kimchi-Oneil/assets/72185011/db1f8ac9-9cd0-44e7-96e8-632b59c30799" width="45%">
 </div>
+</br>
 
 **MIT 금융수학 과정 선수과목**
 1. 단변수 미적분학 (18.01)
@@ -29,13 +30,15 @@
 9. 이토 미적분의 금융 수학 응용
 10. 기르사노프 정리 및 측도 변경 이해
 
-## Curri
-### General Math
-1. 대수학 (Algebra)(2024.Jan ~ 2024.Aug)
-    - 8개월 580시간 소모
-3. 미적분 (Calculus)(2025.Jan~)
-4. 수리통계 (Probability and Statistics)
-5. 선형대수 (Linear Algebra)
+## 🗺 Curriculum Roadmap
+
+### 1️⃣ General Math (Foundations)
+| 단계 | 과목 | 기간 | 상태 | 학습 리소스 |
+| :--- | :--- | :--- | :--- | :--- |
+| **01** | **Algebra (대수학)** | 24.01 ~ 24.08 | 완료 | EBS 중학, 수학의 바이블 (580h) |
+| **02** | **Calculus (미적분)** | 25.01 ~ 25.12 | 완료 | George Thomas Calculus(300h) |
+| **03** | **Linear Algebra (선형대수)** | 25.01 ~ 25.12 | 완료 | David Lay / 3Blue1Brown(300h) |
+| **04** | **Prob & Stats (수리통계)** | - | 🗓 대기 | Hogg / MIT OCW |
 
 ### [Mathematics With Applications In Finance (MIT)](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video_galleries/video-lectures/)
 1. 선형대수학 (Linear Algebra)
